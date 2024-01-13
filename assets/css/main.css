@@ -229,7 +229,10 @@ p {
   margin-bottom: 15px;
   font-weight: normal;
 }
-
+.img-chua{
+  width: 100px;
+  height: 100vh;
+}
 /* line 38, ../../SAIFUL/Running_project/248. Magazine & News/assets/scss/_common.scss */
 .bg-img-1 {
   background-image: url(../img/slider/slider-img-1.jpg);
